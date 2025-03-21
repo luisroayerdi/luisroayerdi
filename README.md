@@ -3,7 +3,7 @@
 ![Header](https://github.com/luisroayerdi/luisroayerdi/blob/main/spirit%20night.png "Header")
 
 # Hi, Im Luis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-- 📝 Here's my [Resume]([https://drive.google.com/file/d/1-4R-Tiw2raq9Xg5Yf0sHLZF0J1bMB-JE/view?usp=sharing](https://drive.google.com/file/d/16u9Ckub3MPQMYBy9XjeXW_3Mg-sYKnlu/view?usp=sharing))
+- 📝 Here's my [Resume](https://drive.google.com/file/d/1-4R-Tiw2raq9Xg5Yf0sHLZF0J1bMB-JE/view?usp=sharing](https://drive.google.com/file/d/16u9Ckub3MPQMYBy9XjeXW_3Mg-sYKnlu/view?usp=sharing))
 - ✨ Recent Project: [Quantum Chess](https://github.com/luisroayerdi/QuantumChess)
 - 🛠️ Featured projects: [Brain of Life](https://github.com/luisroayerdi/QuantumChess](https://github.com/danolongo/hackwesTX2024))
 
