@@ -4,7 +4,7 @@
 
 # Hi, Im Luis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 - 📝 Here's my [Resume](https://drive.google.com/drive/home)
-- ✨ Recent Project: [Quantum Chess](https://github.com/luisroayerdi/QuantumChess)
+- ✨ Recent Project: [Quantum Chess](https://app.luminpdf.com/viewer/686c7bc6fa86e7d2c5b6d129)
 - 🛠️ Featured projects: [Brain of Life](https://github.com/luisroayerdi/QuantumChess](https://github.com/danolongo/hackwesTX2024))
 
 ## 🔧 Technologies & Tools
