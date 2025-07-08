@@ -3,7 +3,7 @@
 ![Header](https://github.com/luisroayerdi/luisroayerdi/blob/main/spirit%20night.png "Header")
 
 # Hi, Im Luis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-- 📝 Here's my [Resume](file:///Users/luisroayerdi/Downloads/Luis%20Ayerdi-Morales%20ICP%20Resume.pdf))
+- 📝 Here's my [Resume](https://drive.google.com/drive/home)
 - ✨ Recent Project: [Quantum Chess](https://github.com/luisroayerdi/QuantumChess)
 - 🛠️ Featured projects: [Brain of Life](https://github.com/luisroayerdi/QuantumChess](https://github.com/danolongo/hackwesTX2024))
 
