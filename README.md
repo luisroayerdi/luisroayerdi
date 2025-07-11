@@ -1,13 +1,4 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/luisroayerdi/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisroayerdi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/luisroayerdi/luisroayerdi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisroayerdi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luis's GitHub Stats" />
-</a>
-
 ![Header](https://github.com/luisroayerdi/luisroayerdi/blob/main/spirit%20night.png "Header")
 
 # Hi, Im Luis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
