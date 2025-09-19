@@ -20,7 +20,6 @@
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/luisroayerdi/)
 
 ## Experience
-- 🤖 I'm currently learning intermediate DS&A at [CodePath](https://www.codepath.org/about)
 - 🎓 I'm currently working as a research assistant on Quantum Information at [Texas Tech University](https://www.depts.ttu.edu/cs/undergrad/)
 - 🖥️ I represented my University at the [2025 Winter Classic Invitational Student Cluster Competition](https://www.theodinproject.com)
 - 🏆 1st Place winner of MLH's 2023 [HackWestTX Hackathon](https://ttuhackwestx.devpost.com/)
