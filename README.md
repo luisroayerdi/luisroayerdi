@@ -23,19 +23,6 @@
 - 🎓 I'm currently working as a research assistant on Quantum Information at [Texas Tech University](https://www.depts.ttu.edu/cs/undergrad/)
 - 🖥️ I represented my University at the [2025 Winter Classic Invitational Student Cluster Competition](https://www.theodinproject.com)
 - 🏆 1st Place winner of MLH's 2023 [HackWestTX Hackathon](https://ttuhackwestx.devpost.com/)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/luisroayerdi/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisroayerdi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/luisroayerdi/luisroayerdi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisroayerdi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Luis's GitHub Stats" />
-</a>
-
-<a href="https://github.com/luisroayerdi/QuantumChess">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisroayerdi&repo=QuantumChess&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
  
 
 <!-- links to social media icons -->
