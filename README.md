@@ -1,5 +1,4 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-![Header](https://github.com/luisroayerdi/luisroayerdi/blob/main/spirit%20night.png "Header")
 
 # Hi, Im Luis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 - 📝 Here's my [Resume](https://www.dropbox.com/scl/fi/yvuy55pncewl85ms4mf4c/Luis-Ayerdi-Morales-ICP-Resume.pdf?rlkey=z0u1v5px6h55oqqzad0ud1sa5&st=hphrtavt&dl=0)
